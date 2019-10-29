@@ -25,7 +25,7 @@ SECRET_KEY = '&u^ed4qdz_!a1h-^86da2u*k36zboyzs53p_=+tgfzh852*+ni'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['aagadh-facebook.herokuapp.com']
 
 
 # Application definition
